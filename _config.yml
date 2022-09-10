@@ -10,7 +10,7 @@ title: HCI project
 brief-intro: project for the course of human computer interaction
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Ehrgeiz-H.github.io" # the base hostname & protocol for your site
-
+timezone: Asia/Shanghai
 permalink: /:year/:month/:day/:title/
 
 # other links
