@@ -16,7 +16,7 @@ detailed information about our members.
 <!--more-->
 
 # Member introduction
-Our group consists of 3 people.E
+Our group consists of 3 people.Each person has a specific role.
 
 ## Website Construction
 
