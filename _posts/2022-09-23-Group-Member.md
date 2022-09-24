@@ -21,22 +21,22 @@ Our group consists of 3 people.
 ## Website Construction
 ![](https://github.com/Ehrgeiz-H/Ehrgeiz-H.github.io/blob/master/images/%E4%BD%95%E6%96%87%E9%9F%AC.jpg)
 
-Name：何文韬
-Role：Website Construction
-Email：2394078339@qq.com or hewentao999888@gmail.com
+<p>Name：何文韬</p>
+<p>Role：Website Construction</p>
+<p>Email：2394078339@qq.com or hewentao999888@gmail.com</p>
 
 ## Website layout
 ![](https://github.com/Ehrgeiz-H/Ehrgeiz-H.github.io/blob/master/images/%E5%88%98%E6%99%B6.jpg)
 
-Name：刘晶
-Role：Website layout
-Email：18360247902@163.com
+<p>Name：刘晶</p>
+<p>Role：Website layout</p>
+<p>Email：18360247902@163.com</p>
 
 
 ## Requirements Analysis
 ![](https://github.com/Ehrgeiz-H/Ehrgeiz-H.github.io/blob/master/images/%E5%90%B4%E9%9D%99%E5%AE%B9.jpg)
 
-Name：吴静容
-Role：Requirements Analysis
-Email：2298813504@qq.com
+<p>Name：吴静容</p>
+<p>Role：Requirements Analysis</p>
+<p>Email：2298813504@qq.com</p>
 
