@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The introduction of our HCI project"
+title:  "VR Travel project"
 date:   2022-09-09 16:32:54
 categories: HCI 
 tags: unity 
