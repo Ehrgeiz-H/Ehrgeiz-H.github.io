@@ -1,6 +1,6 @@
 ---
-layout: demo
-title: Demo
+layout: page
+title: test
 permalink: /test/
 icon: play
 type: page
