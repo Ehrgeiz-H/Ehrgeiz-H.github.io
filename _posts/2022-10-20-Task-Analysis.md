@@ -33,7 +33,7 @@ detailed information about target user persona, task analysis and etc.
 ## User class 1: a couple
 
 <div style='text-align:center; width:100%'>
-<img src="https://i.postimg.cc/59PRLYQd/couple.jpg" alt="couple" style="margin: 0 auto;width:300px; height:600px;">
+<img src="https://i.postimg.cc/59PRLYQd/couple.jpg" alt="couple" style="margin: 0 auto">
 </div>
   
 <p><br>Name: Alice</p>
