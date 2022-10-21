@@ -32,15 +32,17 @@ detailed information about target user persona, task analysis and etc.
 
 ## User class 1: a couple
 
+<div style='text-align:center'>
 <img src="https://i.postimg.cc/59PRLYQd/couple.jpg" alt="couple" style="margin: 0 auto">
-
+</div>
+  
 <p>Name: Alice</p>
 <p>Age: 20</p>
 <p>Goal: have a nice travel with her boyfriend</p>
 <p>Behavior: buy luxuries, visit places of interests</p>
 <p>Background: a student studying economics in Northeast university.</p>
-
-
+<p>
+<p>
 <p>Name: Bob</p>
 <p>Age: 21</p>
 <p>Goal: leave a good impression on his girlfriend</p>
@@ -54,7 +56,8 @@ detailed information about target user persona, task analysis and etc.
 <p>Goal: explore the forest</p>
 <p>Behavior: love nature, want to explore, watch science fiction movies</p>
 <p>Background: a student in primary school</p>
-
+<p>
+<p>
 <p>Name: Tom</p>
 <p>Age: 35</p>
 <p>Goal: go fishing sometime</p>
@@ -64,7 +67,9 @@ detailed information about target user persona, task analysis and etc.
 
 ## User class 3:
 
+<div style='text-align:center'>
 <img src="https://i.postimg.cc/gknBDz3w/image.jpg" alt="couple" style="margin: 0 auto">
+</div>
 
 
 <p>Name: Zhang San</p>
@@ -84,9 +89,9 @@ detailed information about target user persona, task analysis and etc.
 <p>The couple mentioned above want to use the device concurrently, they would like to see each other’s avatar in the virtual world and interact without delay.</p>
 <p>2.	Precondition</p>
 <p>The couple have good internet connection and use our devices simultaneously.</p>
-3.	Goal
+<p>3.	Goal</p>
 <p>Our device is able to make the couple see and interact with each other’s avatar in real time and receive feedback.</p>
-4.	Exceptions
+<p>4.	Exceptions</p>
 <p>Under some circumstances, maybe due to some bugs and unstable network, the couple cannot see or hear each other’s avatar. </p>
 
 
