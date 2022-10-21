@@ -41,8 +41,8 @@ detailed information about target user persona, task analysis and etc.
 <p>Goal: have a nice travel with her boyfriend</p>
 <p>Behavior: buy luxuries, visit places of interests</p>
 <p>Background: a student studying economics in Northeast university.</p>
-<p>
-<p>
+<p></p>
+<p></p>
 <p>Name: Bob</p>
 <p>Age: 21</p>
 <p>Goal: leave a good impression on his girlfriend</p>
@@ -56,8 +56,8 @@ detailed information about target user persona, task analysis and etc.
 <p>Goal: explore the forest</p>
 <p>Behavior: love nature, want to explore, watch science fiction movies</p>
 <p>Background: a student in primary school</p>
-<p>
-<p>
+<p></p>
+<p></p>
 <p>Name: Tom</p>
 <p>Age: 35</p>
 <p>Goal: go fishing sometime</p>
