@@ -36,13 +36,12 @@ detailed information about target user persona, task analysis and etc.
 <img src="https://i.postimg.cc/59PRLYQd/couple.jpg" alt="couple" style="margin: 0 auto">
 </div>
   
-<p>Name: Alice</p>
+<p><br>Name: Alice</p>
 <p>Age: 20</p>
 <p>Goal: have a nice travel with her boyfriend</p>
 <p>Behavior: buy luxuries, visit places of interests</p>
-<p>Background: a student studying economics in Northeast university.</p>
-<p> </p>
-<p> </p>
+<p>Background: a student studying economics in Northeast university.<br><br></p>
+
 <p>Name: Bob</p>
 <p>Age: 21</p>
 <p>Goal: leave a good impression on his girlfriend</p>
@@ -51,13 +50,12 @@ detailed information about target user persona, task analysis and etc.
 
 ## User class 2:
 
-<p>Name: Jerry</p>
+<p><br>Name: Jerry</p>
 <p>Age: 8</p>
 <p>Goal: explore the forest</p>
 <p>Behavior: love nature, want to explore, watch science fiction movies</p>
-<p>Background: a student in primary school</p>
-<p></p>
-<p></p>
+<p>Background: a student in primary school<br><br></p>
+
 <p>Name: Tom</p>
 <p>Age: 35</p>
 <p>Goal: go fishing sometime</p>
@@ -68,11 +66,11 @@ detailed information about target user persona, task analysis and etc.
 ## User class 3:
 
 <div style='text-align:center; width:100%'>
-<img src="https://i.postimg.cc/gknBDz3w/image.jpg" alt="couple" style="margin: 0 auto">
+<img src="https://i.postimg.cc/gknBDz3w/image.jpg" alt="couple" style="margin: 0 auto; width:300px; height:600px;">
 </div>
 
 
-<p>Name: Zhang San</p>
+<p><br>Name: Zhang San</p>
 <p>Gender: Female</p>
 <p>Age: 22</p>
 <p>Location: Nanjing, Jiangsu</p>
